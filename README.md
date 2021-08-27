@@ -1,2 +1,3 @@
 # Calculator-App
-This is calculator app developed using Angular
+This is a practice app developed using Angular.
+[click here](https://shreyadm.github.io/Calculator-App/) to view the project 
